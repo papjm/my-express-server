@@ -2,5 +2,8 @@
 
 const express = require("express");
 
-const app = express()
+const app = express();
+
+app.get()
+
 app.listen(3000)
